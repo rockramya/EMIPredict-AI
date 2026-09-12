@@ -1,0 +1,52 @@
+Feature,Importance
+num__disposable_income,0.16612479
+num__requested_amount,0.09383976
+cat__existing_loans_Yes,0.0705805
+num__total_financial_burden,0.057717744
+cat__existing_loans_No,0.057628162
+num__requested_tenure,0.053988602
+num__current_emi_amount,0.041011132
+cat__emi_scenario_Vehicle EMI,0.039328646
+cat__emi_scenario_E-commerce Shopping EMI,0.0384955
+num__salary_outlier,0.036130905
+cat__emi_scenario_Personal Loan EMI,0.031675942
+num__credit_score,0.027234675
+cat__emi_scenario_Home Appliances EMI,0.022075228
+num__bank_balance_to_income,0.02108207
+num__emi_to_income,0.020381646
+num__monthly_salary,0.01919999
+cat__employment_type_Government,0.016617758
+num__bank_balance,0.016238106
+cat__employment_type_Private,0.015348951
+cat__employment_type_Self-employed,0.014472326
+num__years_of_employment,0.0136915045
+num__expense_to_income,0.013539609
+cat__house_type_Rented,0.013374578
+cat__emi_scenario_Education EMI,0.012064354
+num__monthly_rent,0.011736849
+num__groceries_utilities,0.008932013
+num__total_monthly_expenses,0.0068865004
+num__savings_ratio,0.0067200777
+num__college_fees,0.0059863008
+num__emergency_fund,0.0039934395
+num__travel_expenses,0.0036381597
+num__school_fees,0.0034689389
+cat__house_type_Own,0.0031842757
+cat__house_type_Family,0.002810211
+num__other_monthly_expenses,0.0024737376
+cat__marital_status_Married,0.0024631266
+cat__gender_Female,0.0022665013
+num__family_size,0.002158067
+num__dependents,0.0021278055
+cat__company_type_Mid-size,0.0021100936
+cat__company_type_MNC,0.002060407
+cat__company_type_Large Indian,0.0019955018
+cat__marital_status_Single,0.0019441651
+cat__education_High School,0.0019180081
+cat__company_type_Startup,0.0017635535
+cat__education_Post Graduate,0.001738732
+cat__education_Graduate,0.0017079086
+num__age,0.0015076203
+cat__education_Professional,0.0013636721
+cat__company_type_Small,0.0012018626
+cat__gender_Male,0.0
